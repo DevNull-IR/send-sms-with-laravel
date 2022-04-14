@@ -1,0 +1,23 @@
+{
+    "name": "devnull-ir/codebazansms",
+    "description": "Send sms in Laravel with @smsotp_bot Bot",
+    "type": "library",
+	"keywords": ["laravel", "helper", "sms", "smsotp_bot"],
+    "license": "MIT",
+	"require": {},
+    "authors": [
+        {
+            "name": "DevNull-IR",
+			      "email": "alishahbazpor110@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		},
+		"files":[
+			"app/Helpers/helpers.php"
+		]
+	},
+    "minimum-stability": "dev"
+}
