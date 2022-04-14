@@ -3,7 +3,7 @@ send sms with laravel: @smsotp_bot
 
 
 # install
-
+`composer require devnull-ir/codebazansms`
 
 # use 
 
